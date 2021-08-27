@@ -1,6 +1,6 @@
 ### Hi there, I am Chinasa - aka [Nasa]👋
 
-![screenshot](./image/Nasa.png)
+<!-- ![screenshot](./image/Nasa.png) -->
 
 ## I am a software Engineer
 - 🔭 I’m currently working on some interesting projects using Html, Css, Bootstrap and Javascript.
