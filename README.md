@@ -2,7 +2,7 @@
 
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0077B3?style=for-the-badge&logo=orange&logoColor=orange" />][portfolio]
+[<img align="left" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0077B5??style=social&logo=orange&logoColor=orange" />][portfolio]
 
 <br/>
 <br/>
