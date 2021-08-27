@@ -15,7 +15,7 @@
 - 💬 Ask me about web devolopment.
 - 📫 You can reach me on twitter @Ultimate_nasa.
 
-[<img width="80%" align-text = "center" src = "https://github-readme-stats.vercel.app/api?username=Nasa28"/>][github]
+[<img width="80%" display = "block" margin-left = "auto" margin-right="auto" src = "https://github-readme-stats.vercel.app/api?username=Nasa28"/>][github]
 
 
 [twitter]: https://twitter.com/Ultimate_Nasa
