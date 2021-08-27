@@ -10,12 +10,12 @@
 
 # I am a full-stack developer
 - 🔭 I’m currently working on some interesting projects using Html, Css, Bootstrap and Javascript.
-- 🌱 I am also learning Python.
-- 👯 I am looking to collaborate on other open source projects.
+- 🌱 I'm also learning Python.
+- 👯 I'm looking to collaborate on other open source projects.
 - 💬 Ask me about web devolopment.
 - 📫 You can reach me on twitter @Ultimate_nasa.
 
-[![Kalu Chinasa Agu's github stats](https://github-readme-stats.vercel.app/api?username=Nasa28)][github]
+[![Kalu Chinasa Agu's github stats]<img width="100%" src = "https://github-readme-stats.vercel.app/api?username=Nasa28"/>][github]
 
 
 [twitter]: https://twitter.com/Ultimate_Nasa
