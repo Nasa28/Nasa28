@@ -10,7 +10,7 @@
 
 # I am a full-stack developer
 - 🔭 I’m currently working on some interesting projects using Html, Css, Bootstrap and Javascript.
-- 🌱 I'm also learning Python.
+- 🌱 I'm also learning Node.js.
 - 👯 I'm looking to collaborate on other open source projects.
 - 💬 Ask me about web devolopment.
 - 📫 You can reach me on twitter @Ultimate_nasa.
