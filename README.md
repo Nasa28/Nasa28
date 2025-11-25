@@ -57,15 +57,14 @@ Open to collaborating on interesting open-source projects, particularly in the a
 - System design and distributed computing
 - Cloud-native applications
 
-## GitHub Stats
+## What I'm Working On
 
-<div align="center">
+- Building scalable microservices architectures with Go and NestJS
+- Exploring cloud-native technologies and container orchestration
+- Contributing to open-source projects in the backend infrastructure space
+- Optimizing system performance and database query efficiency
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nasa28&theme=github-dark&hide_border=true&cache_seconds=86400&v=1)](https://github.com/Nasa28)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1)](https://github.com/Nasa28)
-
-</div>
+Check out my [GitHub repositories](https://github.com/Nasa28) to see my latest work.
 
 ---
 
