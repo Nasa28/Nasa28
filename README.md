@@ -66,6 +66,20 @@ Open to collaborating on interesting open-source projects, particularly in the a
 
 Check out my [GitHub repositories](https://github.com/Nasa28) to see my latest work.
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasa28&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasa28&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### Let's Connect
