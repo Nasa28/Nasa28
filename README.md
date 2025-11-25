@@ -1,4 +1,4 @@
-# Chinasa Kalu Agu
+# Chinasa Kalu
 
 **Senior Full-Stack Engineer** | 7+ Years of Experience
 
@@ -66,15 +66,25 @@ Open to collaborating on interesting open-source projects, particularly in the a
 
 Check out my [GitHub repositories](https://github.com/Nasa28) to see my latest work.
 
-## GitHub Activity
+## Professional Highlights
 
-<div align="center">
+**Languages & Technologies:**
+```
+Go          ████████████████░░░░  80%
+TypeScript  ███████████████░░░░░  75%
+JavaScript  ██████████████░░░░░░  70%
+Python      ████████░░░░░░░░░░░░  40%
+SQL         ███████████░░░░░░░░░  55%
+```
 
-![](https://github-readme-stats.vercel.app/api?username=Nasa28&show_icons=true&theme=tokyonight&hide_border=true)
+**Key Achievements:**
+- Architected and deployed microservices handling 10M+ requests/day
+- Optimized database queries resulting in 60% performance improvement
+- Led migration from monolith to microservices architecture
+- Implemented CI/CD pipelines reducing deployment time by 75%
+- Built real-time systems using WebSockets and event-driven architecture
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+**Recent Contributions:** [View on GitHub](https://github.com/Nasa28)
 
 ---
 
