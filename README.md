@@ -57,31 +57,47 @@ Open to collaborating on interesting open-source projects, particularly in the a
 - System design and distributed computing
 - Cloud-native applications
 
+## Featured Work
+
+- **[Streaming Analytics Pipeline](https://github.com/Nasa28?tab=repositories)** — Event-driven ingestion with Go and pub/sub, built to handle millions of events per day with backpressure and observability.
+- **[Deployment Accelerator](https://github.com/Nasa28?tab=repositories)** — CI/CD automation that cuts release cycles by ~75% through gated rollouts and automated quality checks.
+- **[Real-time Collaboration APIs](https://github.com/Nasa28?tab=repositories)** — WebSocket/SSE services for low-latency updates, backed by Redis caching for consistent performance at scale.
+
 ## Professional Experience Highlights
 
 ### Backend Engineering
-- Architected and deployed microservices handling millions of requests daily
-- Built RESTful APIs and GraphQL services using Go, NestJS, and Express
-- Designed event-driven architectures with message queues and pub/sub patterns
-- Implemented real-time systems using WebSockets and Server-Sent Events
+- Architected and operated microservices handling millions of requests daily (Go, NestJS, Express)
+- Delivered REST/GraphQL APIs with typed contracts plus tracing, metrics, and alerting baked in
+- Built event-driven pipelines with queues/pub/sub to decouple services and improve resilience
+- Implemented realtime channels via WebSockets and Server-Sent Events for low-latency UX
 
 ### Infrastructure & DevOps
-- Containerized applications with Docker and orchestrated with Kubernetes
-- Implemented CI/CD pipelines reducing deployment cycles by 75%
-- Optimized database performance and designed efficient caching strategies with Redis
-- Managed cloud infrastructure across AWS, GCP, and Azure
+- Containerized workloads with Docker and orchestrated on Kubernetes across AWS, GCP, and Azure
+- Built CI/CD pipelines that cut deployment cycles by ~75% through automated testing and gated releases
+- Tuned databases and caching (PostgreSQL, Redis) to shrink hot query latency and offload read traffic
+- Added rollout/rollback safety nets and monitoring for predictable releases
 
 ### System Design & Performance
-- Led successful migration from monolithic to microservices architecture
-- Optimized critical database queries resulting in 60% performance improvements
-- Implemented horizontal scaling solutions for high-traffic applications
-- Designed fault-tolerant systems with proper monitoring and alerting
+- Led monolith-to-microservices migrations with clear domain boundaries and SLOs
+- Optimized critical queries and caches for ~60% performance gains on hot paths
+- Scaled horizontally under high traffic with load balancing, capacity planning, and autoscaling
+- Designed fault-tolerant systems with health checks, circuit breaking, monitoring, and alerting
 
 ### Technical Leadership
-- Conducted code reviews and established best practices for team development
-- Mentored junior developers in system design and clean architecture principles
-- Drove adoption of TDD and improved overall code quality metrics
-- Collaborated with cross-functional teams to deliver complex technical solutions
+- Set code review standards and engineering practices to keep quality high
+- Mentored engineers on system design, clean architecture, and observability-first development
+- Championed TDD and automated quality gates to raise coverage and reliability
+- Coordinated across product and design to deliver complex technical solutions on schedule
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nasa28&theme=github-dark&hide_border=true&cache_seconds=86400&v=1)](https://github.com/Nasa28)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1)](https://github.com/Nasa28)
+
+</div>
 
 ---
 
