@@ -57,34 +57,31 @@ Open to collaborating on interesting open-source projects, particularly in the a
 - System design and distributed computing
 - Cloud-native applications
 
-## What I'm Working On
+## Professional Experience Highlights
 
-- Building scalable microservices architectures with Go and NestJS
-- Exploring cloud-native technologies and container orchestration
-- Contributing to open-source projects in the backend infrastructure space
-- Optimizing system performance and database query efficiency
+### Backend Engineering
+- Architected and deployed microservices handling millions of requests daily
+- Built RESTful APIs and GraphQL services using Go, NestJS, and Express
+- Designed event-driven architectures with message queues and pub/sub patterns
+- Implemented real-time systems using WebSockets and Server-Sent Events
 
-Check out my [GitHub repositories](https://github.com/Nasa28) to see my latest work.
+### Infrastructure & DevOps
+- Containerized applications with Docker and orchestrated with Kubernetes
+- Implemented CI/CD pipelines reducing deployment cycles by 75%
+- Optimized database performance and designed efficient caching strategies with Redis
+- Managed cloud infrastructure across AWS, GCP, and Azure
 
-## Professional Highlights
+### System Design & Performance
+- Led successful migration from monolithic to microservices architecture
+- Optimized critical database queries resulting in 60% performance improvements
+- Implemented horizontal scaling solutions for high-traffic applications
+- Designed fault-tolerant systems with proper monitoring and alerting
 
-**Languages & Technologies:**
-```
-Go          ████████████████░░░░  80%
-TypeScript  ███████████████░░░░░  75%
-JavaScript  ██████████████░░░░░░  70%
-Python      ████████░░░░░░░░░░░░  40%
-SQL         ███████████░░░░░░░░░  55%
-```
-
-**Key Achievements:**
-- Architected and deployed microservices handling 10M+ requests/day
-- Optimized database queries resulting in 60% performance improvement
-- Led migration from monolith to microservices architecture
-- Implemented CI/CD pipelines reducing deployment time by 75%
-- Built real-time systems using WebSockets and event-driven architecture
-
-**Recent Contributions:** [View on GitHub](https://github.com/Nasa28)
+### Technical Leadership
+- Conducted code reviews and established best practices for team development
+- Mentored junior developers in system design and clean architecture principles
+- Drove adoption of TDD and improved overall code quality metrics
+- Collaborated with cross-functional teams to deliver complex technical solutions
 
 ---
 
