@@ -57,12 +57,6 @@ Open to collaborating on interesting open-source projects, particularly in the a
 - System design and distributed computing
 - Cloud-native applications
 
-## Featured Work
-
-- **[Streaming Analytics Pipeline](https://github.com/Nasa28?tab=repositories)** — Event-driven ingestion with Go and pub/sub, built to handle millions of events per day with backpressure and observability.
-- **[Deployment Accelerator](https://github.com/Nasa28?tab=repositories)** — CI/CD automation that cuts release cycles by ~75% through gated rollouts and automated quality checks.
-- **[Real-time Collaboration APIs](https://github.com/Nasa28?tab=repositories)** — WebSocket/SSE services for low-latency updates, backed by Redis caching for consistent performance at scale.
-
 ## Professional Experience Highlights
 
 ### Backend Engineering
@@ -93,9 +87,9 @@ Open to collaborating on interesting open-source projects, particularly in the a
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nasa28&theme=github-dark&hide_border=true&cache_seconds=86400&v=1)](https://github.com/Nasa28)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasa28&theme=github-dark&hide_border=true&cache_seconds=14400&v=2)](https://github.com/Nasa28)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1)](https://github.com/Nasa28)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=14400&v=2)](https://github.com/Nasa28)
 
 </div>
 
