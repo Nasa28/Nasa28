@@ -59,7 +59,13 @@ Open to collaborating on interesting open-source projects, particularly in the a
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasa28&show_icons=true&theme=default&hide_border=true&count_private=true)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasa28&theme=default&hide_border=true)](https://github.com/Nasa28)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasa28&layout=compact&theme=default&hide_border=true)](https://github.com/Nasa28)
+
+</div>
 
 ---
 
